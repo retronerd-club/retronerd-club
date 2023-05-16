@@ -1,5 +1,6 @@
 # retronerd.club Journal 
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![Build and Deploy](https://github.com/retronerd-club/retronerd-club/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/retronerd-club/retronerd-club/actions/workflows/pages-deploy.yml)
 
 This is the source code of the [Journal](https://journal.retronerd.club/). Any contribution is welcome.
 
